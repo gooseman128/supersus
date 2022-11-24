@@ -1,0 +1,54 @@
+h1, h2, span {
+	color: red;
+}
+
+div p {
+font-weight: 600;
+}
+
+ul li>span {
+font-weight:600;
+}
+
+ol li + li {
+	list-style: none;
+}
+
+h3~h4 {
+	color: aqua;
+}
+
+header{
+	width: 100px;
+	height: 100px;
+	float: left;
+
+}
+
+.nav1 {
+	width: 100px;
+	height: 100px;
+	float: left;
+	background: lime;
+}
+.nav2 {
+	width: 100px;
+	height: 100px;
+	float: left;
+	background: turquoise;
+	border-radius: 50px;
+}
+.nav3 {
+	width: 100px;
+	height: 100px;
+	float: left;
+	background: turquoise;
+	border: 4px solid blue;
+}
+.nav4 {
+	width: 100px;
+	height: 100px;
+	float: left;
+	background: turquoise;
+	border: 4px solid blue;
+}
